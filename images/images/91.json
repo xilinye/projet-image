@@ -263,6 +263,50 @@
       "shape_type": "polygon",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          365.69047619047615,
+          3.309523809523831
+        ],
+        [
+          366.6428571428571,
+          38.547619047619065
+        ],
+        [
+          749.5,
+          1.4047619047619264
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          1.880952380952408,
+          1544.2619047619046
+        ],
+        [
+          451.4047619047619,
+          1596.642857142857
+        ],
+        [
+          0.0,
+          1597.5852470424495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "..\\images\\images\\91.jpg",
