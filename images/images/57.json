@@ -1,5 +1,5 @@
 {
-  "version": "5.6.1",
+  "version": "5.7.0",
   "flags": {},
   "shapes": [
     {
@@ -240,6 +240,162 @@
       ],
       "group_id": null,
       "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          401.0,
+          451.0
+        ],
+        [
+          618.0,
+          448.0
+        ],
+        [
+          627.0,
+          465.0
+        ],
+        [
+          408.0,
+          468.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          418.0,
+          468.0
+        ],
+        [
+          633.0,
+          468.0
+        ],
+        [
+          649.0,
+          479.0
+        ],
+        [
+          434.0,
+          485.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          439.0,
+          482.0
+        ],
+        [
+          651.0,
+          479.0
+        ],
+        [
+          669.0,
+          494.0
+        ],
+        [
+          447.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          456.0,
+          498.0
+        ],
+        [
+          674.0,
+          495.0
+        ],
+        [
+          684.0,
+          506.0
+        ],
+        [
+          465.0,
+          512.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          473.0,
+          511.0
+        ],
+        [
+          689.0,
+          505.0
+        ],
+        [
+          696.0,
+          519.0
+        ],
+        [
+          482.0,
+          524.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "marche",
+      "points": [
+        [
+          479.0,
+          530.0
+        ],
+        [
+          695.0,
+          520.0
+        ],
+        [
+          707.0,
+          530.0
+        ],
+        [
+          554.0,
+          541.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
       "shape_type": "polygon",
       "flags": {},
       "mask": null
