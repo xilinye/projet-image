@@ -1,0 +1,1354 @@
+{
+    "10.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 50,
+            "canny_high": 220,
+            "hough_threshold": 200,
+            "min_line_length": 100,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 2,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1370.8553270706577,
+            "brightness": 123.97097517151151,
+            "texture": 69.99659614737455,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "12.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 2,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 165.8427029019311,
+            "brightness": 130.3189063385771,
+            "texture": 59.31397861394007,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "14.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                7,
+                7
+            ],
+            "canny_low": 70,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 826.0174904973018,
+            "brightness": 107.36270866666666,
+            "texture": 57.24896586043968,
+            "height": 4000,
+            "width": 3000
+        }
+    },
+    "16.jpg": {
+        "error": 1,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 252.0,
+            "sharpness": 140.19533397196525,
+            "brightness": 151.08499161402383,
+            "texture": 49.94761396658982,
+            "height": 4096,
+            "width": 3072
+        }
+    },
+    "19.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 70,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 253.0,
+            "sharpness": 241.11227321399457,
+            "brightness": 124.89901375,
+            "texture": 57.958166890962325,
+            "height": 4000,
+            "width": 3000
+        }
+    },
+    "2.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 70,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 2,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 459.693981064715,
+            "brightness": 121.69526808599257,
+            "texture": 64.85228807197412,
+            "height": 4080,
+            "width": 3060
+        }
+    },
+    "20.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 267.934940530431,
+            "brightness": 116.39578092521731,
+            "texture": 60.618909840982084,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "23.jpg": {
+        "error": 95,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 60,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1081.9689515835325,
+            "brightness": 127.94959399744286,
+            "texture": 57.95779653607833,
+            "height": 1090,
+            "width": 818
+        }
+    },
+    "24.jpg": {
+        "error": 42,
+        "params": {
+            "blur_kernel": [
+                7,
+                7
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 1635.9198706202678,
+            "brightness": 125.0885208945515,
+            "texture": 62.34053214974072,
+            "height": 1090,
+            "width": 818
+        }
+    },
+    "26.jpg": {
+        "error": 4,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 180,
+            "min_line_length": 80,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 252.0,
+            "sharpness": 406.5471129113518,
+            "brightness": 101.37993652004216,
+            "texture": 65.38602643823786,
+            "height": 1090,
+            "width": 818
+        }
+    },
+    "27.jpg": {
+        "error": 6,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 50,
+            "canny_high": 180,
+            "hough_threshold": 200,
+            "min_line_length": 100,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 247.0,
+            "sharpness": 909.4896110140584,
+            "brightness": 127.08391579372379,
+            "texture": 40.42757039905847,
+            "height": 1090,
+            "width": 818
+        }
+    },
+    "28.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1948.938031717536,
+            "brightness": 98.44135281846526,
+            "texture": 57.99446297425647,
+            "height": 1090,
+            "width": 818
+        }
+    },
+    "29.jpg": {
+        "error": 14,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 200,
+            "hough_threshold": 180,
+            "min_line_length": 60,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1713.2201201555874,
+            "brightness": 106.50314352603557,
+            "texture": 63.6925412515591,
+            "height": 994,
+            "width": 746
+        }
+    },
+    "30.jpeg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 80,
+            "hough_threshold": 220,
+            "min_line_length": 60,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 746.4774982972658,
+            "brightness": 124.131146875,
+            "texture": 47.604489004860085,
+            "height": 1600,
+            "width": 1200
+        }
+    },
+    "31.jpeg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                7,
+                7
+            ],
+            "canny_low": 50,
+            "canny_high": 100,
+            "hough_threshold": 180,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 253.0,
+            "sharpness": 197.40977052467835,
+            "brightness": 148.4265997144911,
+            "texture": 52.64500446541072,
+            "height": 2048,
+            "width": 1152
+        }
+    },
+    "32.jpeg": {
+        "error": 2,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 90,
+            "canny_high": 180,
+            "hough_threshold": 220,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1269.180905061124,
+            "brightness": 125.4630004035102,
+            "texture": 67.8507973443002,
+            "height": 2048,
+            "width": 1152
+        }
+    },
+    "33.jpeg": {
+        "error": 4,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 80,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 178.0,
+            "sharpness": 5.923843501259178,
+            "brightness": 22.888703221450616,
+            "texture": 20.371107986377933,
+            "height": 1920,
+            "width": 1080
+        }
+    },
+    "38.jpeg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 3,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 29.51511874195408,
+            "brightness": 134.98238824850927,
+            "texture": 62.48016093421232,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "39.jpeg": {
+        "error": 7,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 252.0,
+            "sharpness": 103.02831104475888,
+            "brightness": 102.79952604166667,
+            "texture": 56.67740906863773,
+            "height": 1600,
+            "width": 1200
+        }
+    },
+    "40.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 180,
+            "hough_threshold": 220,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 25,
+            "dbscan_min_samples": 3,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 104.71526152782396,
+            "brightness": 150.8057721593653,
+            "texture": 50.10358627316504,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "41.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 120,
+            "hough_threshold": 200,
+            "min_line_length": 60,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 105.90396750689267,
+            "brightness": 101.65062699462501,
+            "texture": 55.28725309823942,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "42.jpg": {
+        "error": 20,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 50,
+            "canny_high": 120,
+            "hough_threshold": 180,
+            "min_line_length": 60,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 162.3951108899785,
+            "brightness": 134.31540270429159,
+            "texture": 59.899879574615426,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "43.jpg": {
+        "error": 80,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 10,
+            "canny_high": 80,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 192.54757060225305,
+            "brightness": 125.63606639608004,
+            "texture": 58.439004422416716,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "44.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 120,
+            "hough_threshold": 220,
+            "min_line_length": 100,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 252.0,
+            "sharpness": 22.491911678047927,
+            "brightness": 111.50827588944529,
+            "texture": 65.62932633333627,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "48.jpg": {
+        "error": 66,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 50,
+            "canny_high": 200,
+            "hough_threshold": 180,
+            "min_line_length": 60,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 148.85298112698146,
+            "brightness": 126.44358983948517,
+            "texture": 57.58924447892063,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "51.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 180,
+            "min_line_length": 100,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 2,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 197.0,
+            "sharpness": 44.003117763106836,
+            "brightness": 108.39088757832845,
+            "texture": 42.35790748346059,
+            "height": 4096,
+            "width": 3072
+        }
+    },
+    "52.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 50,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 100,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 4,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 149.77637735622247,
+            "brightness": 151.59030930201212,
+            "texture": 47.282452104883625,
+            "height": 4096,
+            "width": 3072
+        }
+    },
+    "53.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 3,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 122.09980826921064,
+            "brightness": 119.90842707951863,
+            "texture": 44.2240655611068,
+            "height": 4096,
+            "width": 3072
+        }
+    },
+    "54.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                7,
+                7
+            ],
+            "canny_low": 30,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 57.61460701059307,
+            "brightness": 130.12254691123962,
+            "texture": 39.50900519209921,
+            "height": 4096,
+            "width": 3072
+        }
+    },
+    "56.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 180,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 506.7450439168233,
+            "brightness": 133.63373471367896,
+            "texture": 48.408355760776644,
+            "height": 1707,
+            "width": 1280
+        }
+    },
+    "62.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 321.4928142549591,
+            "brightness": 107.23219551130637,
+            "texture": 61.150796303629086,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "63.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 80,
+            "hough_threshold": 180,
+            "min_line_length": 100,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 25,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 27.788261032216646,
+            "brightness": 100.1842898183579,
+            "texture": 62.525314818496604,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "64.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 753.0681739893308,
+            "brightness": 98.66501814846309,
+            "texture": 57.83768502287036,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "65.jpg": {
+        "error": 1,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 131.82474050194241,
+            "brightness": 150.21687134537456,
+            "texture": 50.90810791565021,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "66.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1152.452666660265,
+            "brightness": 125.0419461766188,
+            "texture": 62.907857599946766,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "67.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                7,
+                7
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 97.2594274246554,
+            "brightness": 123.7162121021248,
+            "texture": 56.50377630977295,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "68.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 80,
+            "hough_threshold": 220,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 143.54368989250256,
+            "brightness": 122.97673571743512,
+            "texture": 60.161414754054704,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "69.jpg": {
+        "error": 1,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 80,
+            "hough_threshold": 180,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 171.57963783632303,
+            "brightness": 103.16448052724202,
+            "texture": 50.05416943984821,
+            "height": 2048,
+            "width": 1536
+        }
+    },
+    "7.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 90,
+            "canny_high": 220,
+            "hough_threshold": 220,
+            "min_line_length": 100,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 25,
+            "dbscan_min_samples": 3,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 253.0,
+            "sharpness": 93.12139928925949,
+            "brightness": 128.80478091603155,
+            "texture": 54.69748408591337,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "8.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 70,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 68.12970228810578,
+            "brightness": 127.02313133490279,
+            "texture": 68.84107848646556,
+            "height": 4032,
+            "width": 3024
+        }
+    },
+    "80.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 263.8491256527654,
+            "brightness": 140.12760762030206,
+            "texture": 49.46381467118013,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "83.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 80,
+            "hough_threshold": 200,
+            "min_line_length": 100,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 186.0461980860162,
+            "brightness": 141.19005675767184,
+            "texture": 60.70504643264871,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "84.jpg": {
+        "error": 1,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 10,
+            "canny_high": 80,
+            "hough_threshold": 200,
+            "min_line_length": 100,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 293.4286674192643,
+            "brightness": 126.43079743561921,
+            "texture": 61.242033749757354,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "85.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 95.6264968405117,
+            "brightness": 116.2164565349312,
+            "texture": 45.78410091129913,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "86.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 1829.6724459374811,
+            "brightness": 142.37010324737173,
+            "texture": 62.399942001722295,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "87.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 50,
+            "canny_high": 200,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 25,
+            "dbscan_min_samples": 3,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 540.0460446782112,
+            "brightness": 136.18038029925813,
+            "texture": 49.39547398277873,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "88.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 10,
+            "canny_high": 120,
+            "hough_threshold": 220,
+            "min_line_length": 60,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 25,
+            "dbscan_min_samples": 4,
+            "dominant_distance_factor": 0.6
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 975.0897751795012,
+            "brightness": 148.6587326614945,
+            "texture": 48.747449295235164,
+            "height": 4608,
+            "width": 3456
+        }
+    },
+    "89.jpg": {
+        "error": 2,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 80,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 7,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 7.124474234775887,
+            "brightness": 89.32049271914649,
+            "texture": 54.32492606843942,
+            "height": 3264,
+            "width": 2448
+        }
+    },
+    "90.jpg": {
+        "error": 8,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 50,
+            "canny_high": 200,
+            "hough_threshold": 180,
+            "min_line_length": 80,
+            "max_line_gap": 20,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 610.3868036264768,
+            "brightness": 97.09537260588759,
+            "texture": 62.075822539570204,
+            "height": 4032,
+            "width": 1960
+        }
+    },
+    "97.jpg": {
+        "error": 1,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 100,
+            "hough_threshold": 200,
+            "min_line_length": 80,
+            "max_line_gap": 15,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 20,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 355.15202813868103,
+            "brightness": 97.88709077380952,
+            "texture": 65.64541978366329,
+            "height": 4032,
+            "width": 1960
+        }
+    },
+    "98.jpg": {
+        "error": 0,
+        "params": {
+            "blur_kernel": [
+                3,
+                3
+            ],
+            "canny_low": 30,
+            "canny_high": 220,
+            "hough_threshold": 220,
+            "min_line_length": 60,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 3,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.5
+        },
+        "features": {
+            "contrast": 255.0,
+            "sharpness": 767.8266941745055,
+            "brightness": 110.70348044723842,
+            "texture": 67.69115005987382,
+            "height": 1960,
+            "width": 4032
+        }
+    },
+    "99.jpg": {
+        "error": 14,
+        "params": {
+            "blur_kernel": [
+                5,
+                5
+            ],
+            "canny_low": 90,
+            "canny_high": 100,
+            "hough_threshold": 180,
+            "min_line_length": 100,
+            "max_line_gap": 10,
+            "horizontal_angle_threshold": 5,
+            "dbscan_eps": 15,
+            "dbscan_min_samples": 1,
+            "dominant_distance_factor": 0.4
+        },
+        "features": {
+            "contrast": 254.0,
+            "sharpness": 404.1905005877424,
+            "brightness": 126.74673036625364,
+            "texture": 43.058099638181005,
+            "height": 1960,
+            "width": 4032
+        }
+    }
+}
